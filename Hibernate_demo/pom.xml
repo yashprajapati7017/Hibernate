@@ -16,8 +16,6 @@
 
     <dependencies>
 
-
-
             <!-- Hibernate ORM -->
             <dependency>
                 <groupId>org.hibernate.orm</groupId>

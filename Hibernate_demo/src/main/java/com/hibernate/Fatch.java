@@ -1,8 +1,10 @@
 package com.hibernate;
 
+import jakarta.persistence.Embeddable;
 import org.hibernate.Session;
 import org.hibernate.SessionFactory;
 import org.hibernate.cfg.Configuration;
+
 
 public class Fatch {
 
